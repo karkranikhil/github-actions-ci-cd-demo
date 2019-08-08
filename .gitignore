@@ -1,0 +1,6 @@
+./node_modules
+./.sonarlint
+./.history
+/node_modules
+/.sonarlint
+/.history
