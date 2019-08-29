@@ -4,7 +4,9 @@
   "description": "demo for ci cd using github actions",
   "main": "app.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start":"node app.js",
+    "build":"node app.js"
   },
   "repository": {
     "type": "git",
